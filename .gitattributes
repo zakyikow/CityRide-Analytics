@@ -4,3 +4,6 @@
 # Ensure R code is properly detected
 *.R linguist-detectable=true
 *.Rmd linguist-detectable=true
+
+# Ensure SQL is detected
+*.sql linguist-detectable=true
