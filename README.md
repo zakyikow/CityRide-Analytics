@@ -6,6 +6,20 @@ A comprehensive data analytics solution for CityRide, a ride-sharing platform, t
 [![R](https://img.shields.io/badge/R-Analysis-276DC3?logo=r&logoColor=white)](https://github.com/zakyikow/CBS_CityRide-Analytics/tree/main/1_R_data_prep_cleaning_EDA)
 [![Postgres](https://img.shields.io/badge/Postgres-Database-316192?logo=postgresql&logoColor=white)](https://github.com/zakyikow/CBS_CityRide-Analytics/tree/main/2_SQL_data_transformation)
 
+<br>
+
+<table>
+  <tr>
+    <td width="30%" align="center"><img src="4_Tableau/Tableau_Dashboard1_RevenueRides.png" width="100%" /></td>
+    <td width="30%" align="center"><img src="4_Tableau/Tableau_Dashboard2_GeographicAnalytics.png" width="100%" /></td>
+    <td width="30%" align="center"><img src="4_Tableau/Tableau_Dashboard3_DriversPerformance.png" width="100%" /></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Revenue & Rides</b></td>
+    <td align="center"><b>Geographic Analytics</b></td>
+    <td align="center"><b>Drivers Performance</b></td>
+  </tr>
+</table>
 
 <br>
 
