@@ -55,7 +55,7 @@ CBS_CityRide-Analytics/
 │
 ├── 1_R_data_prep_cleaning_EDA/                      # R analysis workflow
 │   ├── cityride_analysis.R                          # Complete R analysis script
-│   └── CityRide_Analysis_Report.pdf                 # Detailed methodology report
+│   └── CityRide_Analysis_Report.pdf                 # EDA visualizations
 │
 ├── 2_SQL_data_transformation/                       # Database implementation
 │   ├── schema.sql                                   # Star schema DDL & ETL
